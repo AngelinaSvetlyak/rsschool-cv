@@ -30,3 +30,13 @@ function Me() {
   alert(message);
 }
 Me();
+
+h3 ***Education***
+***
+* Belarusian State University of Informatics and Radioelectronics
+    * Faculty of Information Technology and Management
+
+h3 ***Languages***
+***
+* Russian - native speaker.
+* English - A2
