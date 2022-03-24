@@ -1,6 +1,6 @@
-#**Angelina Svetlyak**
+**Angelina Svetlyak**
 
-##***Contact Info***
+***Contact Info***
 
 * Tel: *+375447682666*
 * E-mail: *angelinasvetlyak@mail.ru*
@@ -8,11 +8,11 @@
 * Discord: *AngelinaSvetlyak*
 * GitHub: *AngelinaSvetlyak*
 
-##***About Me***
+***About Me***
 
 I relied on relevance, relevance and my personal interest when I chose a profession. The field of programming is constantly evolving, which means that I will constantly develop my skills. I'm actually pretty excited about it. At the moment my goal is to gain knowledge in the field of front-end development.
 
-##***Skills***
+***Skills***
 
 * HTML
 * JavaScript (Basic)
@@ -20,7 +20,7 @@ I relied on relevance, relevance and my personal interest when I chose a profess
 * Git, GitHub
 * Adobe Photoshop
 
-##***Code example***
+***Code example***
 
 ```
 let myName = 'Angelina';
@@ -31,12 +31,12 @@ function Me() {
 Me();
 ```
 
-##***Education***
+***Education***
 
 * Belarusian State University of Informatics and Radioelectronics
     * Faculty of Information Technology and Management
 
-##***Languages***
+***Languages***
 
 * Russian - native speaker.
 * English - A2
